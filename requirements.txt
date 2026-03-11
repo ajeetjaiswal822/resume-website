@@ -4,3 +4,4 @@ docx2txt
 python-docx
 openai
 gunicorn
+python-dotenv
